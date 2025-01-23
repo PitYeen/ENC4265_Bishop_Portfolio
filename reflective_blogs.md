@@ -6,8 +6,15 @@
 3. [Reflective Blog 3](#reflective-blog-3)
    
 # Wayback Analysis
+## A look at how websites use to be designed
+Websites today look staggeringly different than how they use to ten, or even twenty years ago. [BuzzFeed](https://www.buzzfeed.com/) is a great example of how website design can change over time, incorporating new trends and standards. Utilizing the Wayback machine, a website that allows one to view webpages as they were at a specific point in time, we can compare BuzzFeed now to what it looked like back then. This way, we can compare design trends from almost twenty years ago.
 
-## Assignment Rationale 
+Using [Wayback Machine](https://web.archive.org/) we can view BuzzFeed as it was in July of 2007. You can [click here](https://web.archive.org/web/20070701055444/http://buzzfeed.com/) if you'd like to see for yourself. It may take some time to load, so be patient.
+
+Comparing the two versions of the same website, we can notice a few things immediately. We can notice that the layout of the website is still relatively the same with the site logo at the top and a navigation bar with quick links. This was, and still is, a common trend in website design that has dated back to the earliest websites. This design has become a standard and good-practice when it comes to website design.
+
+At a glance, the websites look identical. However, if we take a closer look and utilize some critical thinking, we can notice small differences that can tell us about a current trend. As the internet becomes more and more necessary to do almost anything, this creates a unique challenge for many users. BuzzFeed appears to have changed how much text appears on their pages, and the size of this text, making the text larger and bolder. This trend could be attributed to an effort amongst web designers to make websites more easier to read and more accessible to users with limiting disabilities. Less text on a websites makes it easier for users utilizing a screen reader to navigate; bolder and larger text makes it easier for the elder to read. If we compare this to BuzzFeed from 2007, we notice that the site doesn't incorporate these design practices. It contains a lot of small text, unnecessary sub-headings, and just generally difficult to read. A website being difficult to read and navigate for someone without a disability would mean it is practically unusable for someone with one.
+
 
 
 ---

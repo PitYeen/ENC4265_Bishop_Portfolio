@@ -4,9 +4,9 @@
 
 ## About Me 
 Welcome. My name is Kyler Bishop (he/him). I am a student enrolled at the University of Central Florida. I am an Information Technology major with a minor in Secure Computing and Networking. I possess 9 years working in the service industry, primarily retail, working customer facing positions.
-I have regularly worked in face-paced environments that puts a strong emphasis on team communication and a focus on customer communication. I have taken up, and am comfortable, in lead positions where I am able to coordinate with others to devise solutions to any problem that may occur. My hope is that once I graduate that I will be able to jump into those similar team environments again.
+I have regularly worked in fast-paced environments that puts a strong emphasis on team communication and a focus on customer communication. I am comfortable working in lead positions where I am able to coordinate with others to devise solutions to any problem that may occur. My hope is that once I graduate that I will be able to jump into those similar team environments again.
 
-*Note: This website did not utilize AI in it's construction.*
+*Note: This website did not utilize AI in its construction.*
 
 
 <center></center>

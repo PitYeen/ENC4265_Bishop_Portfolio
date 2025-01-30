@@ -19,6 +19,9 @@ Any professionally designed website will utilize accessability design practices 
 
 ---
 # Quick Start Guide
+Something I've always had an issue with is Quick Start Guides. More often than not, I find them to be inadequate. They either don't include enough information, or they're just plain wrong. When I get a new device, I want to set it up quickly and get to using it, as does everyone. So, I decided to try my hand at making my own. It was for something simple, setting up a smart TV. You can download a PDF of it here.
+
+
 
 ## Assignment Rationale 
 This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.

@@ -2,13 +2,10 @@
 
 # Manual Assessment Memo
 
-**MEMORANDUM**
-**TO:** Mr. Manabu Aoki
-
-**FROM:** Kyler Bishop
-
-**SUBJECT:** Recommendations for AT-LP60 Turntable Manual
-
+**MEMORANDUM**<br>
+**TO:** Mr. Manabu Aoki<br>
+**FROM:** Kyler Bishop<br>
+**SUBJECT:** Recommendations for AT-LP60 Turntable Manual<br>
 **DATE:** February 13, 2025
 
 I evaluated the manual for the Audio-Technica AT-LP60 Turntable manual, available at https://www.manua.ls/audio-technica/at-lp60/manual.
@@ -19,10 +16,8 @@ However, while the manual is strong in many areas, there are a few inconsistenci
 
 Here are some suggestions that may assist in improving this section to be more streamlined and easier for end-users to understand.
 
-•	Simplify the language to reduce the use of jargon.
-
-•	Fully spell-out acronyms upon their first mention with the acronym in parenthesis.
-
-•	Include diagrams or graphics to visually depict these cables and connections referenced.
+•    Simplify the language to reduce the use of jargon.<br>
+•    Fully spell-out acronyms upon their first mention with the acronym in parenthesis.<br>
+•    Include diagrams or graphics to visually depict these cables and connections referenced.
 
 AI Statement: AI was used to assist in spellchecking and editing for clarity.  

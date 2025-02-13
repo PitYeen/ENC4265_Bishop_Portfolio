@@ -45,4 +45,15 @@ On your portfolio, post the following:
 -Your reflection 
 ---
 # Reflective Blog 3
-TBD
+## Analyzing a Customer Service Chatbot
+Today, I'll be analyzing a customer service chatbot. With society becoming more and more digitized and most things migrating online, we see more companies implement these rudimentary solutions to handle the large influx of customer support calls. These things can be incredibly frustrating to deal with as they are quite limited to a select number of tasks and often don't help us with whatever issue we are presented with. I want to see how I will fair with one. Since I have AT&T fiber internet, I'll be testing out their chatbot.
+
+Upon opening up the chat bot, I am greeted and asked what assistance I need. I'm not presented with any menu or options, so I opted to ask it something simple: "What is my account balance?" It presented my account balance and asked me if I wanted to pay, I said no. It continued to ask me to pay, which I found odd. I asked to go back to the main menu, which it then presented me with some options to lower my bill, of which there were formatting issues such that the "r" on "lower" was indented to the next line. I told the bot I'll keep my current plan.
+
+I was then presented two options: AT&T Installment Plan and AT&T Next Up. I clicked on AT&T Next Up. The bot described it as a type of phone plan and gave me steps to cancel it. I don't have a phone plan with AT&T, so I do not know why it is acting like I do.
+
+At this point, I was annoyed and ended the chat. The purpose of the bot is obvious: to serve as a filter of customers who's problem can be easily fixed through providing information and keeping the call center wait-times low. But, it doesn't do it that well. The bot does not appear to understand simple questions and delivers irrelevent information. I would ask one question and it would make wild assumptions. I ask what my current balance was, and it goes to cancelling a service I'm not even enrolled in. My experience was terrible, but at least it was easy to use.
+
+I can see why companies implement these chat bots. However, I do not think I have ever had a good experience with them. I do believe this is because I do not normally need customer service outside of complex issues where a simple chatbot is not going to be able to solve. But, for the less tech-savvy users where a simple problem may be easily solvable through a chatbot, I can see these things being useful. It saves service representatives from dealing with hundreds of calls for simple problems and allows them to handle more complex problems.
+
+AI Statement: AI was not used in the writing of this blog post

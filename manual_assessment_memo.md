@@ -14,7 +14,7 @@ Overall, the manual is well-written and user-friendly. The use of diagrams and n
 
 However, while the manual is strong in many areas, there are a few inconsistencies and opportunities for improvement. Specifically, the section titled, "Connecting to Computers or Audio Devices with 3.5 mm Input," contains unnecessary verbosity, some technical jargon, and undefined acronyms that may confuse less experienced users. For example, terms like "RCA cable" are not explained, and the absence of a diagram or graphic to illustrate these connections is an unusual omission, given the frequent inclusion of visuals elsewhere in the manual.
 
-Here are some suggestions that may assist in improving this section to be more streamlined and easier for end-users to understand.
+Here are some suggestions that may assist in improving this section to be more streamlined and easier for end-users to understand:
 
 •    Simplify the language to reduce the use of jargon.<br>
 •    Fully spell-out acronyms upon their first mention with the acronym in parenthesis.<br>

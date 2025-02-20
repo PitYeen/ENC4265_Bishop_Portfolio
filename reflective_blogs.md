@@ -4,6 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)
    
 # Wayback Analysis
 ## A look at how websites use to be designed
@@ -57,3 +58,14 @@ At this point, I was annoyed and ended the chat. The purpose of the bot is obvio
 I can see why companies implement these chat bots. However, I do not think I have ever had a good experience with them. I do believe this is because I do not normally need customer service outside of complex issues where a simple chatbot is not going to be able to solve. But, for the less tech-savvy users where a simple problem may be easily solvable through a chatbot, I can see these things being useful. It saves service representatives from dealing with hundreds of calls for simple problems and allows them to handle more complex problems.
 
 AI Statement: AI was not used in the writing of this blog post
+
+---
+# Reflective Blog 4
+## Reflecting on My Quick Start GUide
+Previously, I uploaded my version of a quick start guide. Looking back, I made a lot of mistakes in it. These mistakes, at my level of education, should not have occured. Professor Johnson pointed out many of these mistakes and suggested corrective measures. 
+
+I wrote this quick start guide to be a general guide that I assumed would apply to most Smart TVs. However, I should have focused on one specific model of TV. Not doing so could create frustrations for some readers where steps may not apply to them and cause confusion. Focusing on a specific model can prevent this frustration and confusion. Such an error would ensure readers neven return to my site.
+
+I also put too much emphasis on the images and not enough on the text instructions. I didn't flesh out the text instructions as much as they should be, and as a result the instructions are missing important information. I mistakenly expected a reader to make assumptions, and that is poor design. The images I used also lacked propper citation. This is a significant error on my part, an error that I should not have made at this level.
+
+In general, these errors are so simple they should not have been made. The errors pointed out are concepts that I was tought at a lower level technical writing course. They resulted in me not taking enough time to proof-read and analyze my guide. This was not a hard assignment by any means, and a way I can avoid these errors is to take more time on my deliverables. Starting them earlier will ensure I have enough time to thoroughly edit my deliverables to ensure they meet the level of quality that this course expects.

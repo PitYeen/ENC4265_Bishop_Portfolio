@@ -8,7 +8,7 @@
 **SUBJECT:** Recommendations for AT-LP60 Turntable Manual<br>
 **DATE:** February 13, 2025
 
-I evaluated the manual for the Audio-Technica AT-LP60 Turntable manual, available at https://www.manua.ls/audio-technica/at-lp60/manual.
+I evaluated the manual for the Audio-Technica AT-LP60 Turntable manual, available at [here.](https://www.manua.ls/audio-technica/at-lp60/manual)
 
 Overall, the manual is well-written and user-friendly. The use of diagrams and numbered lines to highlight features enhances the clarity of the instructions. Additionally, the guidance on the pre-amplifier and the Phono/Line switch is both clear and concise, with the accompanying graphic effectively illustrating its purpose. The inclusion of bold text to emphasize critical operational steps throughout the manual is also a commendable feature that aids users in navigating the content.
 

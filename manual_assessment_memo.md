@@ -20,4 +20,4 @@ Here are some suggestions that may assist in improving this section to be more s
 •    Fully spell-out acronyms upon their first mention with the acronym in parenthesis.<br>
 •    Include diagrams or graphics to visually depict these cables and connections referenced.
 
-AI Statement: AI was used to assist in spellchecking and editing for clarity.  
+AI Statement: ChatGPT was used to assist in spellchecking and editing for clarity.  

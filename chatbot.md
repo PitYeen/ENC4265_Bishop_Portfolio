@@ -3,7 +3,7 @@
 # Chatbot
 I created a simple chatbot named Foody. This bot is designed to give you food options based on your preference and location while utilizing a casual personality. I found that I had trouble figuring out where I'd like to eat, but also knew what kind of food I wanted. By giving your food preference and your location, the bot will output several options of popular restaurants that serve that type of cuisine while giving a brief description of those restaurants. If you find that you change your food preference, I created an option for the bot to change it without having to start a new chat over.
 
-This bot was made using the GUI provided by [Chatling](https://chatling.ai/). Foody utilizes ChatGPT 4.0 to generate responses.
+AI Statement: This bot was made using the GUI provided by [Chatling](https://chatling.ai/). Foody utilizes ChatGPT 4.0 to generate responses. AI was not used in creating this description.
 
 <script> window.chtlConfig = { chatbotId: "7696273282", display: "page_inline" } </script>
 <div id="chatling-inline-bot" style="width: 100%; height: 500px;"></div>

@@ -75,7 +75,7 @@ AI Statement: AI was not used in the writing of this blog post.
 
 ---
 # Reflective Blog 5
-## Creating a Chatbot
+## Creating a Chatbot and AI Technology
 For my previous deliverable, I was tasked with creating a chatbot to solve a specific problem. The problem I chose to tackle was finding food options based on a cuisine preferance and your location. This was a problem I often had, I could not decide where I wanted to eat. 
 
 One of the problems I ran into was, "How was I going to train the bot?" Creating documents and skimming websites to feed into the bot would take a long time, more than I would reasonably have. So, I opted to incorporate AI, specifically ChatGPT. Chatling, the platform I utilized to make my chatbot, offered a convenient way to integrate large language models into my chatbot. 

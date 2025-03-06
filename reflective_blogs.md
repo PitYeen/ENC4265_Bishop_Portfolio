@@ -57,11 +57,11 @@ At this point, I was annoyed and ended the chat. The purpose of the bot is obvio
 
 I can see why companies implement these chat bots. However, I do not think I have ever had a good experience with them. I do believe this is because I do not normally need customer service outside of complex issues where a simple chatbot is not going to be able to solve. But, for the less tech-savvy users where a simple problem may be easily solvable through a chatbot, I can see these things being useful. It saves service representatives from dealing with hundreds of calls for simple problems and allows them to handle more complex problems.
 
-AI Statement: AI was not used in the writing of this blog post
+AI Statement: AI was not used in the writing of this blog post.
 
 ---
 # Reflective Blog 4
-## Reflecting on My Quick Start GUide
+## Reflecting on My Quick Start Guide
 Previously, I uploaded my version of a quick start guide. Looking back, I made a lot of mistakes in it. These mistakes, at my level of education, should not have occured. Professor Johnson pointed out many of these mistakes and suggested corrective measures. 
 
 I wrote this quick start guide to be a general guide that I assumed would apply to most Smart TVs. However, I should have focused on one specific model of TV. Not doing so could create frustrations for some readers where steps may not apply to them and cause confusion. Focusing on a specific model can prevent this frustration and confusion. Such an error would ensure readers neven return to my site.
@@ -69,3 +69,18 @@ I wrote this quick start guide to be a general guide that I assumed would apply 
 I also put too much emphasis on the images and not enough on the text instructions. I didn't flesh out the text instructions as much as they should be, and as a result the instructions are missing important information. I mistakenly expected a reader to make assumptions, and that is poor design. The images I used also lacked propper citation. This is a significant error on my part, an error that I should not have made at this level.
 
 In general, these errors are so simple they should not have been made. The errors pointed out are concepts that I was tought at a lower level technical writing course. They resulted in me not taking enough time to proof-read and analyze my guide. This was not a hard assignment by any means, and a way I can avoid these errors is to take more time on my deliverables. Starting them earlier will ensure I have enough time to thoroughly edit my deliverables to ensure they meet the level of quality that this course expects.
+
+AI Statement: AI was not used in the writing of this blog post.
+
+---
+# Reflective Blog 5
+## Creating a Chatbot
+For my previous deliverable, I was tasked with creating a chatbot to solve a specific problem. The problem I chose to tackle was finding food options based on a cuisine preferance and your location. This was a problem I often had, I could not decide where I wanted to eat. 
+
+One of the problems I ran into was, "How was I going to train the bot?" Creating documents and skimming websites to feed into the bot would take a long time, more than I would reasonably have. So, I opted to incorporate AI, specifically ChatGPT. Chatling, the platform I utilized to make my chatbot, offered a convenient way to integrate large language models into my chatbot. 
+
+While this was extremely convenient for me, it doesn't always do what it's told to do. One of the parameters I set for the chatbot was to not include already listed restaurants when the user requests more locations. Sometimes, the AI seems to ignore this parameter. I've noticed this behavior when using AI chatbots in the past, and ChatGPT itself. AI doesn't always follow explicit instructions given to it. I was able to fix this by manually putting in, "Do not include previous results," multiple times into the prompt that is fed into the AI model. This did appear to somewhat fix the issue, but it's still not perfect. AI is still extremely primitive and is still growing.
+
+Years ago, chatbots were very limited in what they could do. If they were included at all, they had a very limited set of predefined responses and tasks and could often only regurgitate information already found on the website it was embedded in to. More often than not, you would still need to call into a support call center to fix any issues. With the rapid advancement of AI and large language models, chatbots are more than capable and usable now. While still limited, their capabilities to adapt and process user inputs has expanded exponentially. As this technology advances, we will see more implementation of AI. A great example is Wendy's and their implementation of AI in their drive-through ordering systems.
+
+AI Statement: AI was not used in the writing of this blog post.

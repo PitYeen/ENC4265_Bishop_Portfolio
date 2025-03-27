@@ -2,8 +2,8 @@
 
 
 # Procedure Video
+<iframe width="1840" height="1035" src="https://www.youtube.com/embed/KN68u8xv8u0" title="ENC4265 Tutorial video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
+### [Watch this video on YouTube]([https://youtu.be/iadzYtX4ERU](https://www.youtube.com/watch?v=KN68u8xv8u0))
 

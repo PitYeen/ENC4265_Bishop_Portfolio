@@ -6,6 +6,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
    
 # Wayback Analysis
 ## A look at how websites use to be designed
@@ -85,3 +86,9 @@ While this was extremely convenient for me, it doesn't always do what it's told 
 Years ago, chatbots were very limited in what they could do. If they were included at all, they had a very limited set of predefined responses and tasks and could often only regurgitate information already found on the website it was embedded in to. More often than not, you would still need to call into a support call center to fix any issues. With the rapid advancement of AI and large language models, chatbots are more than capable and usable now. While still limited, their capabilities to adapt and process user inputs has expanded exponentially. As this technology advances, we will see more implementation of AI. A great example is Wendy's and their implementation of AI in their drive-through ordering systems.
 
 AI Statement: AI was not used in the writing of this blog post.
+---
+# Reflective Blog 6
+## Chatbot Assignment Page
+Some time ago, I was given the assignment to create a chatbot. Every assignment given to me had a corresponding assignment page that details how to do the assignment, what the requirements are, and the grading rubric. All of these feaatures are critical for any assignment. If I looked at this assignment page at a different angle, it shares a lot of the same characteristics as a tutorial. Immediately, the similarities between a tutorial and an assignment page become apparent. Watching the video explanation I noticed it's set up in a familiar way. The video is done in steps: Purpose > Reason > How To > End Goal. Another similarity is the "Tips" section of the page. This section contains resources and troubleshooting content that most quick start guides would contain. The "What is Due" section could be seen as the "Final Result" or "End Goal" of a tutorial.
+
+While there are a lot of similarities between an assignment page and a tutorial, there are just as many differences. Perhaps the most noticeable difference is the language being used. The assignment page largely asks questions while a tutorial answers questions. The page largely is task orientened versus explaining how to do a task. But, the end goal is often the same result as a tutorial.

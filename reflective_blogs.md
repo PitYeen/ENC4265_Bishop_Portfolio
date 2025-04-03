@@ -94,3 +94,15 @@ Some time ago, I was given the assignment to create a chatbot. Every assignment 
 While there are a lot of similarities between an assignment page and a tutorial, there are just as many differences. Perhaps the most noticeable difference is the language being used. The assignment page largely asks questions while a tutorial answers questions. The page largely is task orientened versus explaining how to do a task. But, the end goal is often the same result as a tutorial.
 
 AI Statement: AI was not used in the writing of this blog post.
+---
+# Reflective Blog 7
+## Making of the Procedure Video
+The other week, I created a procedure video of how to install addons for a game I've been playing. It was something I frequently do and it's something I've found some people struggle with. I summized it was a great topic to make a video on. However, I ran into some problems while making it, and struggled with my own issues.
+
+I had to redo the video several times. I've always struggled with any form of public speaking, even when I have no audience. I get extremely nervous and stumble over my words, which is present in the video. I did write a script for the video, which helped a lot. I mostly stuck to it, but in my nervousness I still made mistakes. It's not professional by any means, but I'm still proud I was able to communicate the information in a way I feel is comprehensive.
+
+One other issue I ran in to was incredibly demotivation. While I had to retake the video several times, I was able to accomplish one without any stumbling. While reviewing the footage, I realized I hit the wrong recording option and it recorded only a specific window, not my entire desktop. This one hurt. I was satisfied with the audio, but it did not record any of my other windows, which was necessary for the tutorial.
+
+Even after all these years or schooling, doing speeches, and talking in front of groups, I still struggle with any form of speaking. I have a long way to go, but being introverted sometimes feels like a handicap in my search for success. This assignment makes me realize I may always struggle with this, but I have to keep going.
+
+AI Statement: AI was not used in the writing of this blog post.

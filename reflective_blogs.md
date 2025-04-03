@@ -7,6 +7,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
    
 # Wayback Analysis
 ## A look at how websites use to be designed

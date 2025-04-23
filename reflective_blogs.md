@@ -8,6 +8,7 @@
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
 7. [Reflective Blog 7](#reflective-blog-7)
+8. [Final Reflection](#final-reflection)
    
 # Wayback Analysis
 ## A look at how websites use to be designed
@@ -107,3 +108,15 @@ One other issue I ran in to was incredibly demotivation. While I had to retake t
 Even after all these years or schooling, doing speeches, and talking in front of groups, I still struggle with any form of speaking. I have a long way to go, but being introverted sometimes feels like a handicap in my search for success. This assignment makes me realize I may always struggle with this, but I have to keep going.
 
 AI Statement: AI was not used in the writing of this blog post.
+---
+# Final Reflection
+Throughout this semester, I was tasked with various assignments to assist in honing my technical writing skills. From creating a blog website, programming a chatbot, and creating a manual, this course had me touch numerous technical writing skills necessary in the workplace.
+
+Despite the variety of assignments in this course, I do not believe I learned anything of significance in the technical writing aspect. Much of the knowledge I gained from this course was the same knowledge I learned in a prior course. Applying many of those skills into this course made for a relatively easy semester.
+But that’s not to say I did not learn anything. Despite my inclination towards technology, I never had any significant interaction with GitHub. I often found the way it was set up to be the opposite of user-friendly. This course forced me to use it, giving me a firm grasp and understanding of this resource.
+
+A unique aspect of this course was the ability to incorporate large language models into my work, allowing me to interact with this emerging technology. I have only ever used this technology for basic tasks, so being able to use it in a productive way, such as helping edit my work or giving suggestions, created for a unique experience not commonly found in university classes as they generally prohibit any form of AI/LLMs.
+
+Another aspect of this course that I appreciated is the professor’s thorough feedback given on each assignment. While I have taken technical writing courses in the past, I am far from proficient in it. These feedback comments were invaluable.
+
+The work assignments in this course, while not learning anything significant, allowed me to apply some skills I have learned prior. It has allowed me to hone those skills and receive constructive feedback from a professional. Being allowed to interact with and incorporate LLMs into my work has put me ahead of many others in my field by embracing aspects of this technology to enhance my skills, putting me one step closer to graduation.

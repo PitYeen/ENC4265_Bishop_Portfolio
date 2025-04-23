@@ -120,3 +120,5 @@ A unique aspect of this course was the ability to incorporate large language mod
 Another aspect of this course that I appreciated is the professor’s thorough feedback given on each assignment. While I have taken technical writing courses in the past, I am far from proficient in it. These feedback comments were invaluable.
 
 The work assignments in this course, while not learning anything significant, allowed me to apply some skills I have learned prior. It has allowed me to hone those skills and receive constructive feedback from a professional. Being allowed to interact with and incorporate LLMs into my work has put me ahead of many others in my field by embracing aspects of this technology to enhance my skills, putting me one step closer to graduation.
+
+AI Statement: AI was not used in the writing of this blog post.
